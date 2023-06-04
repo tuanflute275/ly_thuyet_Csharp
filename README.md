@@ -1,21 +1,21 @@
 ## Lý Thuyết C#
 
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
 
-namespace LearnCsharp
-{
-    internal class Program
+    namespace LearnCsharp
     {
-        static void Main(string[] args)
+        internal class Program
         {
-            /* 
-             //hello world 
-             Console.WriteLine("hello world");
+            static void Main(string[] args)
+            {
+                /* 
+                 //hello world 
+                 Console.WriteLine("hello world");
 
                         // vẽ hình trái tim 
             Console.WriteLine("******************************");
